@@ -2,7 +2,7 @@
   "name": "bank-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Dioneprey/React_Banco_App",
+  "homepage": "https://dioneprey.github.io/React_Banco_App/",
   "type": "module",
   "scripts": {
     "deploy": "gh-pages -d dist",
